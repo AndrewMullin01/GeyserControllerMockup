@@ -1,0 +1,5 @@
+SevSeg.c:13:6:SevSegInit	4	static
+SevSeg.c:23:6:SevSegReset	0	static
+SevSeg.c:77:6:SevSegwrite	4	static
+SevSeg.c:42:6:digitLoop	16	static
+SevSeg.c:30:6:displayLoop	0	static

@@ -1,0 +1,6 @@
+GPIO_input.c:17:6:GPIO_input_init	0	static
+GPIO_input.c:22:6:flowMeterInterrupt	4	static
+GPIO_input.c:34:6:waterFlowFlagReset	0	static
+GPIO_input.c:42:6:valveControl	0	static
+GPIO_input.c:76:9:inWindow	0	static
+GPIO_input.c:48:6:heaterControlLoop	8	static

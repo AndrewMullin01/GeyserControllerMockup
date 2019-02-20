@@ -1,0 +1,5 @@
+proxSenseI2C.c:26:6:proxSenseI2CInit	48	static
+proxSenseI2C.c:53:6:i2cLoop	32	static
+proxSenseI2C.c:104:6:i2cIRQ	32	static
+proxSenseI2C.c:125:6:printSettings	40	static
+proxSenseI2C.c:137:5:scanAdresses	24	static

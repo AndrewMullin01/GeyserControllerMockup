@@ -1,0 +1,6 @@
+adc.c:36:6:adcInit	0	static
+adc.c:51:6:fastFindMax	24	static
+adc.c:70:6:findRMS	32	static
+adc.c:41:6:adcLoop	16	static
+adc.c:92:6:findTemperature	16	static
+adc.c:104:7:map	0	static

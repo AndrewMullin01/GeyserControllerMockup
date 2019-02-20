@@ -1,0 +1,4 @@
+main.c:96:6:mainInit	16	static
+main.c:177:6:SystemClock_Config	112	static
+main.c:116:5:main	64	static
+main.c:576:6:_Error_Handler	0	static
