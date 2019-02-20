@@ -1,0 +1,27 @@
+	
+	if(currentTime%1000 == 0)
+	{
+		printf("%d:%d:%d\r\n", rtcTime.Hours,rtcTime.Minutes,rtcTime.Seconds);
+	}
+
+
+/////////////////////////////////////////////////////////////////////////////////
+
+uint8_t inWindow()
+{
+	if(heatingSchedule[0].Total < heatingSchedule[1].Total) // window 1 is valid
+	{
+		if(rtcTimeTotal >= heatingSchedule[0].Total && rtcTimeTotal < heatingSchedule[1].Total) //
+		{
+
+		}
+	}
+	if(heatingSchedule[2].Total < heatingSchedule[3].Total) // window 2 is valid
+	{
+
+	}
+	if(heatingSchedule[4].Total < heatingSchedule[5].Total) // window 3 is valid
+	{
+
+	}
+}
